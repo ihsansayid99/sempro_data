@@ -1,0 +1,17 @@
+RENSTRA AS A FORMAT AWAL 
+1. indikator dan sasaran sama setiap 5 tahun
+2. setiap tahun, unit memberikan realisasi dari targeting utama seperti file (PROPER)
+3. Isian dari target nya itu ketikan biasa
+4. hasil renstra itu setiap 1 tahun (UNIT) dan 5 Tahun Politeknik
+5. Result seperti FILE Lampiran
+
+* hasilnya adalah realisasi dari taget tiap unit. dan di akumulatipkan jadi realisasi institusi.
+* nanti mah isian sasaran targetnya dari renstra institusi secara otomatis dan tampilkan juga target institusi...nanti tinggal prodi memasukan target prodi di awal Tahun akademik dan capaianya pas akhir Tahun Akademik
+
+RENSTRA AS A SISTEM
+1. Login, tanpa ada fitur register
+2. pengguna yang bisa akses ada Admin Unit, Super Admin
+3. Admin Unit bisa mengisi FORM setiap akhir periode / 1thn, sub isian nya perbulan. ( Menu RENOP )
+4. Super Admin Dapat CRUD topik.sasaran, sasaran dan indikator per 5 tahun. adanya baseline tahunn.
+5. Super Admin dapat CRUD Data UNIT
+5. Admin dapat Read,Edit Data Unit Information.
